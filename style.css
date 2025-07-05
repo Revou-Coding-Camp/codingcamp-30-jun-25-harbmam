@@ -1,4 +1,4 @@
-/* Reset default styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -11,7 +11,6 @@ body {
   background-color: #f4f4f4;
 }
 
-/* Header */
 header {
   display: flex;
   justify-content: space-between;
@@ -40,7 +39,6 @@ nav a {
   font-weight: bold;
 }
 
-/* Main Content */
 main {
   max-width: 1200px;
   margin: 2rem auto;
@@ -138,7 +136,6 @@ form button:hover {
   margin: 0.5rem 0;
 }
 
-/* Footer */
 footer {
   text-align: center;
   padding: 1rem;
